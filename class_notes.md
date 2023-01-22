@@ -1,4 +1,4 @@
-# Server Systems
+# Server Systems:
 
 * Physical Servers (BareMetal Servers):
     * Bilgisayar -> Yüksek donanım, özel işlemciler, özel işletim sistemleri.
@@ -25,7 +25,7 @@
     * Microservice mimarisi.
     * Container yazılımları -> docker.com
 
-## Temel Bilgiler
+## Temel Bilgiler:
 
 * IP ve Port mantığı
 * Default portlar 80 443 -> https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
@@ -46,7 +46,7 @@
 
 * VSCode Docker Extension -> https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 
-## .dockerignore
+## .dockerignore:
 
 create .dockerignore file for per project:
 
